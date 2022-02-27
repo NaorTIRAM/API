@@ -1,0 +1,17 @@
+{
+  "name": "Covid_API",
+  "version": "1.0.0",
+  "description": "This is an API to track Covid patients",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0"
+  }
+}
